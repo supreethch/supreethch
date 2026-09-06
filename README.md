@@ -1,55 +1,47 @@
-<!-- [FILL IN: Replace the text header below with a finalized banner stored at assets/banner.gif.] -->
-
-<h1 align="center">SUPREETH CHITTALURI</h1>
+<h1 align="center">Supreeth Chittaluri</h1>
 
 <p align="center">
-  <strong>Computer Science @ University of Michigan – Ann Arbor</strong><br>
-  Backend Systems • Full-Stack Engineering • Applied AI • Developer Infrastructure
+Computer Science @ University of Michigan • Backend Systems • Full Stack Engineering • Applied AI
 </p>
 
-## Hey there! 👋
+<p align="center">
+<strong>Ann Arbor, MI • <a href="https://supreethchittaluri.vercel.app">supreethchittaluri.vercel.app</a></strong>
+</p>
 
-I'm Supreeth, a Computer Science student at the **University of Michigan – Ann Arbor** who enjoys building software end to end—from backend systems and APIs to full-stack products and AI-powered tools.
+<p align="center">
+I enjoy building software end to end, from backend systems and APIs to full stack products and applied AI tools. Most recently, I worked as an <strong>AI Product and Engineering Intern at OneStream Software</strong> within AI and Operational Analytics, contributing to AI focused engineering initiatives and production software.
+</p>
 
-Most recently, I worked as an **AI Product & Engineering Intern at OneStream Software** within the AI & Operational Analytics organization, contributing to AI-focused engineering initiatives and production software.
+<p align="center">
+I am especially interested in <strong>backend engineering, systems programming, full stack development, cloud infrastructure, applied AI, and AI powered developer tools</strong>.
+</p>
 
-I'm especially interested in **backend engineering, systems programming, full-stack development, cloud infrastructure, applied AI, and AI-powered developer tools**.
+<hr>
 
----
+## Tech Stack
 
-### Technologies
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,ts,js" />
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | `C++` `Python` `TypeScript` `JavaScript` `SQL` |
-| **Backend & Web** | `FastAPI` `Node.js` `React` `PostgreSQL` |
-| **Cloud & Engineering** | `Docker` `AWS` `Google Cloud` `Git` `GitHub Actions` |
-| **AI & ML** | `PyTorch` `TensorFlow` |
+SQL
 
----
+### Backend and Frameworks
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs" />
 
-### Currently Exploring
+### Data and Storage
+<img src="https://skillicons.dev/icons?i=postgres,redis" />
 
-Distributed systems, observability, real-time applications, and AI-powered developer infrastructure.
+### DevOps and Cloud
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel" />
 
-<!--
-## Selected Projects
+### Tools
+<img src="https://skillicons.dev/icons?i=git,githubactions,cmake,linux" />
 
-[FILL IN: Add this section only after the projects are completed and the information is verified.]
+### AI and ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-### [FILL IN: Project name]
-[FILL IN: One-sentence description of what the project does and the engineering problem it solves.]
+<hr>
 
-**Built with:** [FILL IN: Core technologies]  
-**Links:** [FILL IN: Repository URL] · [FILL IN: Live demo URL, if available]  
-**Evidence:** [FILL IN: One verified performance, scale, reliability, or user-impact result]
+## Currently Exploring
 
-[Repeat for two additional completed projects.]
--->
-
-<!--
-## Connect
-
-[FILL IN: Add only verified links that you want displayed publicly.]
-[FILL IN: Portfolio URL] · [FILL IN: LinkedIn URL] · [FILL IN: Résumé URL] · [FILL IN: Public contact method]
--->
+Distributed systems, observability, real time applications, and AI powered developer infrastructure.
