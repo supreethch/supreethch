@@ -21,7 +21,7 @@ I am especially interested in <strong>backend engineering, systems programming, 
 ## Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,ts,js" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js" />
 
 SQL
 
